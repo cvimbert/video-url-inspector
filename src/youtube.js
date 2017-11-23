@@ -1,6 +1,6 @@
 //http://stackoverflow.com/a/14701040
 var youtubeRe = /^.*(?:youtu.be\/|v\/|e\/|u\/\w+\/|embed\/|v=)([^#\&\?]*).*/;
-var isYoutubeDomain = /https?\:\/\/(?:youtu\.be|www.youtube.|youtube.)/;
+var isYoutubeDomain = /https?\:\/\/(?:youtu\.be|www.youtube.|youtube.|m.youtube.)/;
 
 function tryGetRemoteIdFromUrl(url) {
 

@@ -15,7 +15,8 @@
     "uglifyify": "^2.5.0"
   },
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp test",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
